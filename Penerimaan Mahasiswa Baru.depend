@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1697206679 source:d:\dimas\ittp-if-11-c\tugas\pratikum\penerimaan mahasiswa baru\main.cpp
+	<conio.h>
+	<windows.h>
+	<iostream>
+
+1702213326 source:d:\dimas\ittp-if-11-c\semester 1\tugas\pratikum alpro\program pratikum\penerimaan mahasiswa baru\main.cpp
+	<iostream>
+	<string>
+	<limits>
+	<iomanip>
+
